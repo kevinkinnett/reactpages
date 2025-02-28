@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
-import MarketTab from './MarketTab';
-import FinancialTab from './FinancialTab';
-import OperationsTab from './OperationsTab';
-import CompetitionTab from './CompetitionTab';
-import LegalTab from './LegalTab';
-import AudioTab from './AudioTab';
+import MarketTab from './BusinessPlanInfographic/MarketTab';
+import FinancialTab from './BusinessPlanInfographic/FinancialTab';
+import OperationsTab from './BusinessPlanInfographic/OperationsTab';
+import CompetitionTab from './BusinessPlanInfographic/CompetitionTab';
+import LegalTab from './BusinessPlanInfographic/LegalTab';
+import AudioTab from './BusinessPlanInfographic/AudioTab';
 
 // Simple icon components
 const Camera = () => <span>📷</span>;
